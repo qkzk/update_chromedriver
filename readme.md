@@ -21,4 +21,8 @@ $ python update_chromedriver.py
 Just create a link to the last file you downloaded to the virtual environment binaries
 of your project.
 
+## Credits
+
+[pavelsaman's answer on StackExchange](https://sqa.stackexchange.com/a/41929)
+
 
